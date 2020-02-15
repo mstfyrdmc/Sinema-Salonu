@@ -1,0 +1,29 @@
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.exe.config
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.exe
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.pdb
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csprojResolveAssemblyReference.cache
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.Form1.resources
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.Properties.Resources.resources
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csproj.GenerateResource.Cache
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.exe
+C:\Users\ikbal.hamurcu\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.pdb
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.exe.config
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.exe
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.pdb
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csprojAssemblyReference.cache
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.Form1.resources
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.Properties.Resources.resources
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csproj.GenerateResource.cache
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csproj.CoreCompileInputs.cache
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.exe
+C:\Users\DAMLA HAMURCU\Desktop\Yazılım BA\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.exe.config
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.exe
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\bin\Debug\WFASinemaSalonu.pdb
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csprojAssemblyReference.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.Form1.resources
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.Properties.Resources.resources
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csproj.GenerateResource.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.exe
+C:\Users\Mustafa YARDIMCI\Desktop\WFASinemaSalonu\WFASinemaSalonu\obj\Debug\WFASinemaSalonu.pdb
